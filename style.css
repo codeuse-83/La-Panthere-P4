@@ -677,7 +677,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 18px;
 }
 
 .tight-width-whitespace {
@@ -710,7 +710,7 @@ h2 {
 }
 
 h3 {
-    font-size: 15px;
+    font-size: 18px;
     text-transform: uppercase;
     font-weight: 700;
     color: #333333!important;
@@ -775,11 +775,11 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: white!important;
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
+    background: black;
     color: #FFFFFF!important;
 }
 
@@ -1039,4 +1039,15 @@ h4 {
     .bloc-mob-center-text {
         text-align: center;
     }
+}
+#bloc-2-services h2 {
+    max-width: 630px;
+    margin: auto;
+}
+.citation p {
+    font-size: 20px;
+    font-weight: bold;
+}
+.citation span {
+    font-weight: normal;
 }
