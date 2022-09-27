@@ -1065,13 +1065,7 @@ body {
     height: 100px;
   }
   
-  /* sizing img on index (page 1) */
-  @media (min-width: 767px) {
-    #bloc-4-portfolio img {
-      width: 270px;
-      height: 270px;
-    }
-  }
+
   
   /* social network logo accessibility */
   .social a {
